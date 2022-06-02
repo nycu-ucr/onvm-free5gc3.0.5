@@ -28,6 +28,6 @@
 [submodule "webconsole"]
 	path = webconsole
 	url = https://github.com/free5gc/webconsole.git
-[submodule "NFs/smf"]
+[submodule "smf"]
 	path = NFs/smf
-	url = https://github.com/nctu-ucr/smf.git
+	url = https://github.com/nycu-ucr/smf.git
