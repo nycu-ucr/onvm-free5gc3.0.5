@@ -31,3 +31,4 @@
 [submodule "smf"]
 	path = NFs/smf
 	url = https://github.com/nycu-ucr/smf.git
+	branch = main
